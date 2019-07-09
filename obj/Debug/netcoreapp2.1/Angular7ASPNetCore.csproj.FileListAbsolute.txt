@@ -1,0 +1,14 @@
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\obj\Debug\netcoreapp2.1\Angular7ASPNetCore.csprojAssemblyReference.cache
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\bin\Debug\netcoreapp2.1\Angular7ASPNetCore.deps.json
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\bin\Debug\netcoreapp2.1\Angular7ASPNetCore.runtimeconfig.json
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\bin\Debug\netcoreapp2.1\Angular7ASPNetCore.runtimeconfig.dev.json
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\bin\Debug\netcoreapp2.1\Angular7ASPNetCore.dll
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\bin\Debug\netcoreapp2.1\Angular7ASPNetCore.pdb
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\obj\Debug\netcoreapp2.1\Angular7ASPNetCore.csproj.CoreCompileInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\obj\Debug\netcoreapp2.1\Angular7ASPNetCore.RazorAssemblyInfo.cache
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\obj\Debug\netcoreapp2.1\Angular7ASPNetCore.RazorAssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\obj\Debug\netcoreapp2.1\Angular7ASPNetCore.AssemblyInfoInputs.cache
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\obj\Debug\netcoreapp2.1\Angular7ASPNetCore.AssemblyInfo.cs
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\obj\Debug\netcoreapp2.1\Angular7ASPNetCore.RazorTargetAssemblyInfo.cache
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\obj\Debug\netcoreapp2.1\Angular7ASPNetCore.dll
+C:\Users\Nemanja Djordjevic\source\repos\Angular7ASPNetCore\Angular7ASPNetCore\obj\Debug\netcoreapp2.1\Angular7ASPNetCore.pdb
